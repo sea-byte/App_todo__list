@@ -10,7 +10,7 @@
 ## Versiones usadas
 
  laravel v.5.8
- php v.7.4
+ php v.7.1.23
  mysql v.5.7
  bootstrap v.4.1 para le estructura
  bootstrap v.4.5 para los iconos
