@@ -7,10 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Versiones de Aplicaciones usadas
+## Versiones usadas
 
  laravel v.5.8
- php v.7.1.3
+ php v.7.1.23
  mysql v.5.7
  bootstrap v.4.1 para le estructura
  bootstrap v.4.5 para los iconos
